@@ -22,5 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
     //gridOptions.api.setQuickFilter('toyota')
     // chrome console にて、以下のような関数実行すると、フィルタできる
     // gridOptions.api.setQuickFilter('toyo cela')
+    // TODO 特定の列を、フィルタの対象外とする
 });
 
